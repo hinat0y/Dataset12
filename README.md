@@ -1,2 +1,2 @@
 # Instructions
-run mavenInstallScrypt.sh before analyzing
+Run mavenInstallScrypt.sh before analyzing.
