@@ -1,4 +1,6 @@
 # Instructions
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhinat0y%2FDataset12.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhinat0y%2FDataset12?ref=badge_shield)
+
 Run mavenInstallScrypt.sh before analyzing.
 # Ground truth
 ## Direct dependencies and associated CVEs
@@ -70,3 +72,7 @@ Run mavenInstallScrypt.sh before analyzing.
 | spring-web-6.1.3 | micrometer-observation-1.12.2, micrometer-commons-1.12.2 |
 | spring-webmvc-6.0.10 |  |
 | testng-7.4.0.jar | jcommander-1.78, jquery-3.5.1 |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhinat0y%2FDataset12.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhinat0y%2FDataset12?ref=badge_large)
